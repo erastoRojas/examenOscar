@@ -62,6 +62,7 @@ public class Configuration {
     private String smtpServer;
     private String smtpPort;
     private String mailPass;
+    private String apiKey;
     
 
     private freemarker.template.Configuration freeMarker;
@@ -137,6 +138,10 @@ public class Configuration {
 
     public void setMailPass(String mailPass) {
         this.mailPass = mailPass;
+    }
+    
+    public String getApiKey() {
+        return apiKey;
     }
 
 }

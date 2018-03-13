@@ -1,12 +1,3 @@
 ## YAML Template.
 ---
-driverDB: com.mysql.jdbc.Driver
-urlDB: jdbc:mysql://db4free.net:3307/clasesdaw?useSSL=false
-userDB: oscarnovillo
-passDB: c557ef
-#db4free.net:3307
-
-#driverDB: com.mysql.jdbc.Driver
-#urlDB: jdbc:mysql://localhost/clasesdaw?useSSL=false
-#userDB: root
-#passDB: nohay2sin3
+##apiKey: 85RGF64UTVVFM9GZYY1H8U69N77IHSAKV83SEP9XWYB4R7GYM2
